@@ -8,15 +8,15 @@ In this assignment, you will build a web application that scrapes various websit
 
 * `mission_to_mars.ipynb`: initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter
 
-** NASA Mars News
+1. NASA Mars News
 
-** JPL Mars Space Images - Featured Image
+2. JPL Mars Space Images - Featured Image
 
-** Mars Weather
+3. Mars Weather
 
-** Mars Facts
+4. Mars Facts
 
-** Mars Hemispheres
+5. Mars Hemispheres
 
 ## MongoDB and Flask Application
 
